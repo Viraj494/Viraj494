@@ -1,5 +1,3 @@
-![Viraj Kalhara Header](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
-
 # 👋 Hi, I'm Viraj Kalhara!
 
 ## 🚀 About Me
@@ -9,6 +7,8 @@ I am a passionate **Software Engineer** specializing in **Full-Stack Development
 - 💻 I love working on **Web and Mobile Applications**
 - 🌱 Always learning new technologies and improving my skills
 - 🤝 Looking to collaborate on **exciting projects**
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation">
 
 ---
 
@@ -54,10 +54,10 @@ I am a passionate **Software Engineer** specializing in **Full-Stack Development
 
 ## 📊 GitHub Stats
 
-![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viraj494&show_icons=true&theme=radical)
+![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viraj494&show_icons=true&theme=radical&animate=true)
 
 ### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj494&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj494&layout=compact&theme=radical&animate=true)
 
 ---
 
