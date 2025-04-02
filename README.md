@@ -1,3 +1,5 @@
+![Viraj Kalhara Header](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
+
 # 👋 Hi, I'm Viraj Kalhara!
 
 ## 🚀 About Me
@@ -47,6 +49,15 @@ I am a passionate **Software Engineer** specializing in **Full-Stack Development
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viraj494&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj494&layout=compact&theme=radical)
 
 ---
 
