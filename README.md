@@ -1,5 +1,3 @@
-![Viraj Kalhara Header](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
-
 # 👋 Hi, I'm Viraj Kalhara!
 
 ## 🚀 About Me
